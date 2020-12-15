@@ -1,0 +1,15 @@
+Hi Rohan,
+
+Thanks for the chat today. As discussed, we'd like to invite you to a technical interview on Thursday for which I sent you a separate calendar invite.
+
+For the node.js part, if possible, please bring some code you wrote and you can go through it with Juan.
+
+For the ML part, there is a dataset here. Which contains a few thousands CSV files containing data for houses on sale in Belgium. The idea is simply to make an accurate (or interesting) model to predict house prices based on different variables present (municipality, surface area, number of bathrooms, etc.).
+
+Ideally you send me back on Wednesday a Jupyter notebook that I could run myself (I have the data locally, I'll just change the folder path) and that shows not just a final model, but also explains what you did and why. If you don't use Jupyter, a simple python file is also ok.
+
+It's real world data, so it's not super clean. Feel free to filter/fill/clean up in any way you see fit.
+
+Feel free to ask me any questions if needed.
+
+Looking forward!
