@@ -7,6 +7,7 @@ authors = ["Rohan Khanna <rohan.kh@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 tensorflow = "^2.4.0"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
